@@ -1,0 +1,80 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="64" height="64" fill="white"/>
+<path d="M28 30H22V32H18V34H14V36H10V38H8V44H10V46H14V48H18V50H22V52H26V54H30V55H36V54H40V52H44V50H48V48H50V42H48V40H44V38H40V36H36V34H32V32H28V30Z" fill="#D8D9DF"/>
+<path d="M26 8H32V10H36V12H40V14H44V16H48V18H50V42H44V40H40V38H36V36H32V34H28V32H26V8Z" fill="#838495"/>
+<rect x="10" y="40" width="2" height="2" fill="#9DA5B7"/>
+<rect x="10" y="42" width="6" height="2" fill="#9DA5B7"/>
+<rect x="14" y="44" width="4" height="2" fill="#9DA5B7"/>
+<path d="M22 34H26V36H22V34Z" fill="#9DA5B7"/>
+<rect x="18" y="36" width="4" height="2" fill="#9DA5B7"/>
+<rect x="14" y="38" width="4" height="2" fill="#9DA5B7"/>
+<path d="M26 36H30V38H26V36Z" fill="#9DA5B7"/>
+<path d="M22 38H26V40H22V38Z" fill="#9DA5B7"/>
+<rect x="18" y="40" width="4" height="2" fill="#9DA5B7"/>
+<path d="M30 38H34V40H30V38Z" fill="#9DA5B7"/>
+<path d="M26 40H30V42H26V40Z" fill="#9DA5B7"/>
+<path d="M22 42H26V44H22V42Z" fill="#9DA5B7"/>
+<rect x="22" y="46" width="4" height="2" fill="#9DA5B7"/>
+<rect x="18" y="44" width="8" height="2" fill="#9DA5B7"/>
+<path d="M34 40H38V42H34V40Z" fill="#9DA5B7"/>
+<path d="M30 42H34V44H30V42Z" fill="#9DA5B7"/>
+<rect x="26" y="44" width="4" height="2" fill="#9DA5B7"/>
+<path d="M38 42H42V44H38V42Z" fill="#9DA5B7"/>
+<rect x="34" y="44" width="4" height="2" fill="#9DA5B7"/>
+<rect x="30" y="46" width="4" height="2" fill="#9DA5B7"/>
+<rect x="26" y="46" width="2" height="2" fill="#9DA5B7"/>
+<rect x="18" y="46" width="4" height="2" fill="#9DA5B7"/>
+<rect x="22" y="48" width="4" height="2" fill="#9DA5B7"/>
+<rect x="26" y="50" width="4" height="2" fill="#9DA5B7"/>
+<rect x="34" y="50" width="6" height="2" fill="#9DA5B7"/>
+<rect x="36" y="48" width="4" height="2" fill="#9DA5B7"/>
+<rect x="40" y="46" width="4" height="2" fill="#9DA5B7"/>
+<rect x="44" y="44" width="4" height="2" fill="#9DA5B7"/>
+<rect x="40" y="48" width="4" height="2" fill="#9DA5B7"/>
+<rect x="44" y="46" width="4" height="2" fill="#9DA5B7"/>
+<rect x="30" y="52" width="6" height="2" fill="#9DA5B7"/>
+<rect x="48" y="44" width="2" height="2" fill="#9DA5B7"/>
+<path d="M30 14H36V16H40V18H44V20H46V36H40V34H36V32H32V30H30V14Z" fill="#EFF8FB"/>
+<path d="M28 14H30V28H28V14Z" fill="#101F23"/>
+<path d="M44 20H46V22H44V20Z" fill="#101F23"/>
+<path d="M44 36H46V38H44V36Z" fill="#101F23"/>
+<path d="M40 34H44V36H40V34Z" fill="#101F23"/>
+<path d="M36 32H40V34H36V32Z" fill="#101F23"/>
+<path d="M32 30H36V32H32V30Z" fill="#101F23"/>
+<path d="M30 28H32V30H30V28Z" fill="#101F23"/>
+<path d="M46 22H48V38H46V22Z" fill="#101F23"/>
+<path d="M40 18H44V20H40V18Z" fill="#101F23"/>
+<path d="M36 16H40V18H36V16Z" fill="#101F23"/>
+<path d="M32 14H36V16H32V14Z" fill="#101F23"/>
+<path d="M28 12H32V14H28V12Z" fill="#101F23"/>
+<path d="M18 32H22V34H18V32Z" fill="#101F23"/>
+<path d="M14 34H18V36H14V34Z" fill="#101F23"/>
+<path d="M10 36H14V38H10V36Z" fill="#101F23"/>
+<path d="M10 44H14V46H10V44Z" fill="#101F23"/>
+<path d="M14 46H18V48H14V46Z" fill="#101F23"/>
+<path d="M18 48H22V50H18V48Z" fill="#101F23"/>
+<path d="M22 50H26V52H22V50Z" fill="#101F23"/>
+<path d="M26 52H30V54H26V52Z" fill="#101F23"/>
+<path d="M36 52H40V54H36V52Z" fill="#101F23"/>
+<path d="M40 50H44V52H40V50Z" fill="#101F23"/>
+<path d="M44 48H48V50H44V48Z" fill="#101F23"/>
+<path d="M48 46H52V48H50H48V46Z" fill="#101F23"/>
+<path d="M8 38H10V44H8V38Z" fill="#101F23"/>
+<path d="M30 54H36V55V56H30V55V54Z" fill="#101F23"/>
+<path d="M26 6H28V8H26V6Z" fill="#101F23"/>
+<path d="M24 8H26V30H24V8Z" fill="#101F23"/>
+<path d="M48 18H50V20H48V18Z" fill="#101F23"/>
+<path d="M28 32H32V34H28V32Z" fill="#101F23"/>
+<path d="M32 34H36V36H32V34Z" fill="#101F23"/>
+<path d="M36 36H40V38H36V36Z" fill="#101F23"/>
+<path d="M40 38H44V40H40V38Z" fill="#101F23"/>
+<path d="M44 40H48V42H44V40Z" fill="#101F23"/>
+<path d="M50 20H52V46H50V42V30V20Z" fill="#101F23"/>
+<path d="M28 8H32V10H28V8Z" fill="#101F23"/>
+<path d="M32 10H36V12H32V10Z" fill="#101F23"/>
+<path d="M36 12H40V14H36V12Z" fill="#101F23"/>
+<path d="M40 14H44V16H40V14Z" fill="#101F23"/>
+<path d="M44 16H48V18H44V16Z" fill="#101F23"/>
+<path d="M22 30H28V32H22V30Z" fill="#101F23"/>
+<path d="M48 42H50V44H48V42Z" fill="#101F23"/>
+</svg>
