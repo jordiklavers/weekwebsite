@@ -68,8 +68,7 @@
 }
 
 body {
-  /* color: var(--_theme---content); */
-  color: red;
+  color: var(--_theme---content);
   font-family: Inter, Arial, sans-serif;
   font-size: 1rem;
   font-weight: 500;
