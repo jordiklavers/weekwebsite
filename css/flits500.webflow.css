@@ -43,6 +43,7 @@
   --_theme---content-secondary: white;
   --_swatch---light--0: #f8f5f0;
   --_theme---border: white;
+  --site--gap-s: .5rem;
   --_swatch---light--20: #edeae6;
   --_swatch---dark--100: #101f23;
   --_swatch---dark--40: #4e5458;
@@ -52,7 +53,6 @@
   --_sizing---spacing--sm: .25rem;
   --_sizing---spacing--md: 1rem;
   --_sizing---spacing--lg: 2rem;
-  --site--gap-s: .5rem;
   --_sizing---spacing--xs: .125rem;
   --site--section-padding: var(--site--gap-m);
   --site--border-md: .5rem;
@@ -1412,6 +1412,11 @@ strong {
     font-size: 1.5rem;
   }
 
+  .grid-main.is--2col {
+    grid-column-gap: var(--site--gap-s);
+    grid-row-gap: var(--site--gap-s);
+  }
+
   .intro_row.grid-main {
     justify-content: flex-end;
     align-items: flex-start;
@@ -1476,8 +1481,8 @@ strong {
   }
 
   .faq__list {
-    grid-column-gap: var(--site--gap-m);
-    grid-row-gap: var(--site--gap-m);
+    grid-column-gap: var(--site--gap-s);
+    grid-row-gap: var(--site--gap-s);
   }
 
   .footer__social-wrapper {
